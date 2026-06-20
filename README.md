@@ -85,8 +85,3 @@ Before object detection training, a MobileNetV2 classifier was used to validate 
 * Real-time video tracking using BoT-SORT
 * TensorRT/ONNX optimization
 
-## 👨‍💻 Author
-
-**Amitesh Ram M S**
-B.Tech Computer Science and Data Science
-VIT Chennai
